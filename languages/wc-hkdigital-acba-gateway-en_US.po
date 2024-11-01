@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment gateway for acbabank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-10 12:38+0000\n"
+"PO-Revision-Date: 2021-09-09 19:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: payment-gateway-for-acbabank"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: wc-hkdigital-acba-gateway.php:647
+msgid ")"
+msgstr ")"
+
+#: wc-hkdigital-acba-gateway.php:1129
+msgid "ACBA CREDIT AGRICOLE BANK"
+msgstr ""
+"ACBA CREDIT AGRICOLE BANK\n"
+
+#: wc-hkdigital-acba-gateway.php:929
+msgid "Activate shopping cart function"
+msgstr ""
+"Activate shopping cart function\n"
+
+#: wc-hkdigital-acba-gateway.php:139 wc-hkdigital-acba-gateway.php:162 
+#: wc-hkdigital-acba-gateway.php:877
+msgid "Add a credit card"
+msgstr "Add a credit card"
+
+#: wc-hkdigital-acba-gateway.php:1132
+msgid ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations."
+msgstr ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations.\n"
+
+#: wc-hkdigital-acba-gateway.php:905
+msgid "Binding Password"
+msgstr ""
+"Binding Password\n"
+
+#: wc-hkdigital-acba-gateway.php:901
+msgid "Binding User Name"
+msgstr ""
+"Binding User Name\n"
+
+#: wc-hkdigital-acba-gateway.php:928
+msgid "Cart totals"
+msgstr ""
+"Cart totals\n"
+
+#: wc-hkdigital-acba-gateway.php:1031
+msgid "Connection error."
+msgstr "Connection error."
+
+#: wc-hkdigital-acba-gateway.php:833
+msgid "Debug Log"
+msgstr "Debug Log"
+
+#: wc-hkdigital-acba-gateway.php:805
+msgid "Description"
+msgstr "Description"
+
+#: wc-hkdigital-acba-gateway.php:868
+msgid "Enable \"Save Card\" function"
+msgstr "Enable card binding option"
+
+#: wc-hkdigital-acba-gateway.php:835
+msgid "Enable debug mode"
+msgstr "Enable debug mode"
+
+#: wc-hkdigital-acba-gateway.php:826
+msgid "Enable Multi-Currency"
+msgstr "Enable Multi-Currency"
+
+#: wc-hkdigital-acba-gateway.php:859
+msgid "Enable payment confirmation function"
+msgstr "Enable payment confirmation function"
+
+#: wc-hkdigital-acba-gateway.php:791
+msgid "Enable payment gateway"
+msgstr "Enable payment gateway"
+
+#: wc-hkdigital-acba-gateway.php:871
+msgid "Enable Save Card"
+msgstr ""
+"Enable Save Card\n"
+
+#: wc-hkdigital-acba-gateway.php:841
+msgid "Enable test Mode"
+msgstr "Enable test Mode"
+
+#: wc-hkdigital-acba-gateway.php:790
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: wc-hkdigital-acba-gateway.php:854 wc-hkdigital-acba-gateway.php:907
+msgid "Enter password"
+msgstr ""
+"Enter password\n"
+
+#: wc-hkdigital-acba-gateway.php:1174
+msgid "Example Acbagayudcsu14"
+msgstr ""
+"Example Acbagayudcsu14\n"
+
+#: wc-hkdigital-acba-gateway.php:773 wc-hkdigital-acba-gateway.php:1188
+msgid "here"
+msgstr "here"
+
+#: wc-hkdigital-acba-gateway.php:820
+msgid "Here interface language of bank purchase can be regulated"
+msgstr "Here interface language of bank purchase can be regulated"
+
+#: wc-hkdigital-acba-gateway.php:785
+msgid "Here you can change the language of the plugin control panel."
+msgstr "Here you can change the language of the plugin control panel."
+
+#. Author of the plugin
+msgid "HK Digital Agency LLC"
+msgstr "HK Digital Agency LLC"
+
+#. Author URI of the plugin
+msgid "https://hkdigital.am"
+msgstr "https://hkdigital.am"
+
+#: wc-hkdigital-acba-gateway.php:1172
+msgid "Identification password"
+msgstr ""
+"Identification password\n"
+
+#: wc-hkdigital-acba-gateway.php:813
+msgid "Language"
+msgstr "Language"
+
+#: wc-hkdigital-acba-gateway.php:936
+msgid "Links"
+msgstr ""
+
+#: wc-hkdigital-acba-gateway.php:910
+msgid "Live Settings"
+msgstr "Live Settings"
+
+#: wc-hkdigital-acba-gateway.php:768
+msgid ""
+"Log HKD ARCA Gateway events, inside <code>"
+"woocommerce/logs/acba_credit_agricole.txt</code>"
+msgstr ""
+"Log HKD ARCA Gateway events, inside <code>"
+"woocommerce/logs/acba_credit_agricole.txt</code>\n"
+
+#: wc-hkdigital-acba-gateway.php:825
+msgid "Multi-Currency"
+msgstr "Multi-Currency"
+
+#: wc-hkdigital-acba-gateway.php:874
+msgid "New binding card text"
+msgstr "New binding card text"
+
+#: wc-hkdigital-acba-gateway.php:661
+msgid "No Saved Cards"
+msgstr "No Saved Cards"
+
+#: wc-hkdigital-acba-gateway.php:1128
+#| msgid "Online payment gateway"
+msgid "ONLINE PAYMENT GATEWAY"
+msgstr "Online payment gateway"
+
+#: wc-hkdigital-acba-gateway.php:919
+msgid "Password"
+msgstr "Password"
+
+#: wc-hkdigital-acba-gateway.php:137 wc-hkdigital-acba-gateway.php:800
+msgid "Pay via credit card"
+msgstr "Pay via credit card"
+
+#. Description of the plugin
+#| msgid ""
+#| "Pay with  acbabank payment system. Please note that the payment will be made "
+#| "in Armenian Dram."
+msgid ""
+"Pay with ACBA BANK payment system. Please note that the payment will be made "
+"in Armenian Dram."
+msgstr ""
+"Pay with ACBA BANK payment system. Please note that the payment will be made "
+"in Armenian Dram."
+
+#. Name of the plugin
+#| msgid "Payment gateway for acbabank"
+msgid "Payment Gateway for ACBA BANK"
+msgstr "Payment gateway for ACBA BANK"
+
+#: wc-hkdigital-acba-gateway.php:1230
+msgid "Payment system"
+msgstr ""
+"Payment system\n"
+
+#: wc-hkdigital-acba-gateway.php:1400 wc-hkdigital-acba-gateway.php:1426 
+#: wc-hkdigital-acba-gateway.php:1433
+msgid "Please try again later."
+msgstr "Please try again later."
+
+#: wc-hkdigital-acba-gateway.php:999 wc-hkdigital-acba-gateway.php:1024
+msgid "Please try again."
+msgstr "Please try again."
+
+#: wc-hkdigital-acba-gateway.php:778 wc-hkdigital-acba-gateway.php:1151
+msgid "Plugin language"
+msgstr "Plugin language"
+
+#: wc-hkdigital-acba-gateway.php:808
+msgid ""
+"Purchase by  credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams."
+
+#: wc-hkdigital-acba-gateway.php:138
+msgid ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams."
+
+#: wc-hkdigital-acba-gateway.php:140 wc-hkdigital-acba-gateway.php:163 
+#: wc-hkdigital-acba-gateway.php:886
+msgid "Purchase safely by using your saved credit card"
+msgstr "Purchase safely by using your saved credit card"
+
+#: wc-hkdigital-acba-gateway.php:866
+msgid "Save Card Admin"
+msgstr "Enable card binding option"
+
+#: wc-hkdigital-acba-gateway.php:883
+msgid "Save card description text"
+msgstr "Save card description text"
+
+#: wc-hkdigital-acba-gateway.php:1200
+msgid "See bank offer"
+msgstr ""
+"See bank offer\n"
+
+#: wc-hkdigital-acba-gateway.php:1207
+msgid "See plugin possibilities"
+msgstr ""
+"See plugin possibilities\n"
+
+#: wc-hkdigital-acba-gateway.php:1214
+msgid "See terms of usage"
+msgstr ""
+"See terms of usage\n"
+
+#: wc-hkdigital-acba-gateway.php:1476
+msgid "Settings"
+msgstr "Settings"
+
+#: wc-hkdigital-acba-gateway.php:840
+msgid "Test mode"
+msgstr "Test mode"
+
+#: wc-hkdigital-acba-gateway.php:852
+msgid "Test Password"
+msgstr "Test Password"
+
+#: wc-hkdigital-acba-gateway.php:848
+msgid "Test User Name"
+msgstr "Test User Name"
+
+#: wc-hkdigital-acba-gateway.php:828
+msgid ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+msgstr ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+
+#: wc-hkdigital-acba-gateway.php:931
+msgid ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+msgstr ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+
+#: wc-hkdigital-acba-gateway.php:797
+msgid "Title"
+msgstr "Title"
+
+#: wc-hkdigital-acba-gateway.php:1186
+msgid "To see the identification terms, click"
+msgstr ""
+"To see the identification terms, click\n"
+
+#: wc-hkdigital-acba-gateway.php:843
+msgid ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+msgstr ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+
+#: wc-hkdigital-acba-gateway.php:1316
+msgid "Token not valid"
+msgstr "Token not valid"
+
+#: wc-hkdigital-acba-gateway.php:858
+msgid "Two-stage Payment"
+msgstr "Two-stage Payment"
+
+#: wc-hkdigital-acba-gateway.php:861
+msgid ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+msgstr ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+
+#: wc-hkdigital-acba-gateway.php:810
+msgid "Type the description"
+msgstr "Type the description"
+
+#: wc-hkdigital-acba-gateway.php:921
+msgid "Type the password"
+msgstr "Type the password"
+
+#: wc-hkdigital-acba-gateway.php:875
+#| msgid "Type the save card header text"
+msgid "Type the save card checkbox text"
+msgstr ""
+"Type the save card header text\n"
+
+#: wc-hkdigital-acba-gateway.php:884
+#| msgid "Type the save card button text"
+msgid "Type the save card description text"
+msgstr ""
+"Type the save card button text\n"
+
+#: wc-hkdigital-acba-gateway.php:802
+msgid "Type the title"
+msgstr "Type the title"
+
+#: wc-hkdigital-acba-gateway.php:893
+#| msgid "Enter use new card text"
+msgid "Type the use new card text"
+msgstr "Type the use new card text"
+
+#: wc-hkdigital-acba-gateway.php:916
+msgid "Type the user name"
+msgstr "Type the user name"
+
+#: wc-hkdigital-acba-gateway.php:141 wc-hkdigital-acba-gateway.php:164 
+#: wc-hkdigital-acba-gateway.php:895
+msgid "Use a new credit card"
+msgstr "Use a new credit card"
+
+#: wc-hkdigital-acba-gateway.php:892
+msgid "Use new card text"
+msgstr "Use new card text"
+
+#: wc-hkdigital-acba-gateway.php:924
+msgid "Useful functions"
+msgstr ""
+"Useful functions\n"
+
+#: wc-hkdigital-acba-gateway.php:1192
+msgid "Useful links"
+msgstr ""
+"Useful links\n"
+
+#: wc-hkdigital-acba-gateway.php:807
+msgid ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+msgstr ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+
+#: wc-hkdigital-acba-gateway.php:799
+msgid ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+msgstr ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+
+#: wc-hkdigital-acba-gateway.php:914
+msgid "User Name"
+msgstr "User Name"
+
+#: wc-hkdigital-acba-gateway.php:642
+msgid "You can Delete Cards"
+msgstr "You can Delete Cards"
+
+#: wc-hkdigital-acba-gateway.php:1286 wc-hkdigital-acba-gateway.php:1322
+#| msgid "you must fill token"
+msgid "You must fill token"
+msgstr "You must fill token"
+
+#: wc-hkdigital-acba-gateway.php:641
+msgid "Your card list"
+msgstr "Your card list"
